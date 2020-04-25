@@ -1,0 +1,10 @@
+com\flyme\phy1\biz\service\UserServiceImpl.class
+com\flyme\phy1\base\controller\BaseController.class
+com\flyme\phy1\biz\service\impl\UserService.class
+com\flyme\phy1\biz\bean\User$UserBuilder.class
+com\flyme\phy1\biz\controller\UserController.class
+com\flyme\phy1\base\mapper\BaseMapper.class
+com\flyme\phy1\base\bean\BaseBean.class
+com\flyme\phy1\biz\bean\User.class
+com\flyme\phy1\biz\mapper\UserMapper.class
+com\flyme\phy1\FlymeApplication.class
